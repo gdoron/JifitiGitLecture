@@ -1,6 +1,3 @@
-document.title = "BLA BLA BLA";
-
-
 function foo(){
-
+	document.title = "BLA BLA BLA";
 }
