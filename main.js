@@ -1,7 +1,6 @@
 function foo(parameter){
-	document.title = "BLA BLA BLA";
+	document.title = "FOO FOO FOO";
 }
-
 function bar(){
 	$('h3').text('WA WA WA');
 }
