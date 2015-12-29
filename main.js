@@ -1,3 +1,3 @@
-function foo(){
+function foo(parameter){
 	document.title = "BLA BLA BLA";
 }
