@@ -4,3 +4,5 @@ function foo(parameter){
 function bar(){
 	$('h3').text('WA WA WA');
 }
+
+bar();
